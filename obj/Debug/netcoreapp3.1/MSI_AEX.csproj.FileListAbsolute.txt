@@ -1,0 +1,12 @@
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.exe
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.deps.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.runtimeconfig.dev.json
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\games\Desktop\MSI\MSI_AEX\bin\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.csprojAssemblyReference.cache
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfoInputs.cache
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.AssemblyInfo.cs
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.dll
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.pdb
+C:\Users\games\Desktop\MSI\MSI_AEX\obj\Debug\netcoreapp3.1\MSI_AEX.genruntimeconfig.cache
